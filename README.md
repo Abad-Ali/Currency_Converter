@@ -54,7 +54,9 @@ Here are some screenshots of the application in action:
 * 🧾 HTML
 * 🎨 CSS
 * 🧠 JavaScript
-* 🌐 Currency API: [currency-api.pages.dev](https://2024-03-06.currency-api.pages.dev/v1/currencies)
+🌐 Currency API: [currency-api.pages.dev](https://currency-api.pages.dev)
+
+> *Note: The API endpoint used internally by this project does not provide a browsable webpage, so direct access via browser may show an error. The app fetches live data via JavaScript requests to this API.*
 ---
 
 ## 🧰 How to Run Locally
