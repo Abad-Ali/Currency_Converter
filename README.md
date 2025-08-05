@@ -84,7 +84,7 @@ Here are some screenshots of the application in action:
 
 ## 👤 Author
 
-**Your Name**
+**Abad Ali**
 
 * GitHub: [Abad-Ali](https://github.com/Abad-Ali)
 * LinkedIn: [Abad Ali](https://linkedin.com/in/your-linkedin)
