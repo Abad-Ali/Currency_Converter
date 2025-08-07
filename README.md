@@ -64,8 +64,8 @@ Here are some screenshots of the application in action:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/Currency-Converter.git
-   cd Currency-Converter
+   git clone https://github.com/Abad-Ali/Currency_Converter.git
+   cd Currency_Converter
    ```
 2. Open the app by double-clicking `currConv.html` or open it in your preferred browser.
 
